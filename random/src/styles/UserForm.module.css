@@ -1,0 +1,19 @@
+.userForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.userFormInput {
+  height: 48px;
+  border-radius: 16px;
+}
+
+.userFormButton {
+  width: 200px;
+  height: 40px;
+  background-color: white;
+  color: black;
+}
